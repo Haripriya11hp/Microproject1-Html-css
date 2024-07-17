@@ -13,7 +13,7 @@ body{
     background-color: #FFCD9E;
     display: flex;
     justify-content: center;
-    padding: 20px 130px;
+    padding: 0px 130px;
 }
 .flex-right{
     width: 50%;
